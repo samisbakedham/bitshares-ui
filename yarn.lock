@@ -8325,9 +8325,10 @@ pend@~1.2.0:
   resolved "https://registry.npmjs.org/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha1-elfrVQpng/kRUzH89GY9XI4AelA=
 
-"perfect-scrollbar@git+https://github.com/bitshares/perfect-scrollbar.git":
-  version "0.6.15"
-  resolved "git+https://github.com/bitshares/perfect-scrollbar.git#4df6d0c20ed9b56d882da2b92b72ac4b5ea430ff"
+perfect-scrollbar@0.8.1:
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/perfect-scrollbar/-/perfect-scrollbar-0.8.1.tgz#9cdcb50e72740b8da7e5a4a534f36c35f4e0a613"
+  integrity sha512-RNC5tX/JMRYR+qVdJTEAWnRxw0Yf9lvbO8lTuAOvgDODkiA8lveTSkvrNMhmaGKEyimJpJl+myb/syVS9YyPuw==
 
 performance-now@^2.1.0:
   version "2.1.0"
