@@ -168,7 +168,7 @@
         "indexeddbshim": "^2.2.1",
         "intl": "^1.2.5",
         "intro.js": "^2.8.0-alpha.1",
-        "jdenticon": "git+https://github.com/cryptonomex/jdenticon.git",
+        "jdenticon": "1.8.0",
         "js-sha256": "^0.2.3",
         "jsonschema": "^1.2.4",
         "jspdf": "^2.3.1",

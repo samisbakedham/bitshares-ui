@@ -2880,6 +2880,11 @@ caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001280:
   resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001286.tgz#3e9debad420419618cfdf52dc9b6572b28a8fff6"
   integrity sha512-zaEMRH6xg8ESMi2eQ3R4eZ5qw/hJiVsO/HlLwniIwErij0JDr9P+8V4dtx1l+kLq6j3yy8l8W4fst1lBnat5wQ==
 
+canvas-renderer@~1.0.0:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/canvas-renderer/-/canvas-renderer-1.0.1.tgz#4aca9eec5689c48e767806c84bcb514f37084154"
+  integrity sha1-Ssqe7FaJxI52eAbIS8tRTzcIQVQ=
+
 canvg@^3.0.6:
   version "3.0.9"
   resolved "https://registry.npmjs.org/canvg/-/canvg-3.0.9.tgz#9ba095f158b94b97ca2c9c1c40785b11dc08df6d"
@@ -6418,9 +6423,12 @@ jake@^10.6.1:
     filelist "^1.0.1"
     minimatch "^3.0.4"
 
-"jdenticon@git+https://github.com/cryptonomex/jdenticon.git":
-  version "1.1.0"
-  resolved "git+https://github.com/cryptonomex/jdenticon.git#5107872e12c645dcfd1e9efbe963a9bd54fd2e48"
+jdenticon@1.8.0:
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/jdenticon/-/jdenticon-1.8.0.tgz#07f920ad7feb5c8c97ac7094b33df2acef966111"
+  integrity sha1-B/kgrX/rXIyXrHCUsz3yrO+WYRE=
+  dependencies:
+    canvas-renderer "~1.0.0"
 
 jest-changed-files@^24.9.0:
   version "24.9.0"
