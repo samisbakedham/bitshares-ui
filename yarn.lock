@@ -7280,10 +7280,10 @@ ltcdr@^2.2.1:
   resolved "https://registry.npmjs.org/ltcdr/-/ltcdr-2.2.1.tgz#5ab87ad1d4c1dab8e8c08bbf037ee0c1902287cf"
   integrity sha1-Wrh60dTB2rjowIu/A37gwZAih88=
 
-lzma@2.1.6:
-  version "2.1.6"
-  resolved "https://registry.npmjs.org/lzma/-/lzma-2.1.6.tgz#e1180b33f9242ec2d1f4d31ee3fd26e0225d1200"
-  integrity sha1-4RgLM/kkLsLR9NMe4/0m4CJdEgA=
+lzma@2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/lzma/-/lzma-2.3.2.tgz#3783b24858b9c0e747a0df3cbf1fb5fcaa92c441"
+  integrity sha1-N4OySFi5wOdHoN88vx+1/KqSxEE=
 
 make-dir@^2.1.0:
   version "2.1.0"
